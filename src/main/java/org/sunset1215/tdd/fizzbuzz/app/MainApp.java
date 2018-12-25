@@ -6,8 +6,7 @@ public class MainApp {
     
     public static void main(String[] args) {
         
-        FizzBuzz app = new FizzBuzz();
-        app.run();
+        FizzBuzz fizzBuzz = new FizzBuzz();
         
     }
     
